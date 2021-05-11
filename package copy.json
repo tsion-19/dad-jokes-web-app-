@@ -1,0 +1,35 @@
+{
+  "name": "firebase-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.14.0",
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/pwa": "^3.3.5",
+    "axios": "^0.21.1",
+    "cookieparser": "^0.1.0",
+    "core-js": "^3.9.1",
+    "firebase": "^8.4.3",
+    "helpers": "0.0.6",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^3.1.2",
+    "nuxt": "^2.15.3"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.3",
+    "@nuxt/typescript-build": "^2.1.0",
+    "node-sass": "^5.0.0",
+    "nuxt-windicss": "^0.4.4"
+  },
+  "description": "## Build Setup",
+  "main": "nuxt.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
