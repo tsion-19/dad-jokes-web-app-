@@ -1,5 +1,7 @@
-# firebase-nuxt
-
+# DadJokes Web-App
+# Descriptions
+Welcome to our project! This is a dadjokes Web App made in Nuxt, Vue and Firebase. It allows users to quickly and easily find corny dad jokes. With this App, users should first have to register then login to find the corny dadjokes . We hope you enjoy and we look forward to your contributions!
+This is an app that displays corny dad jokes
 ## Build Setup
 
 ```bash
